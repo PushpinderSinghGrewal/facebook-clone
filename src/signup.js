@@ -10,7 +10,7 @@ import RaisedButton from 'material-ui/RaisedButton';
 
   return(
     <div><Bar />
-      <div style={{background:'#d7ddea',height:'650px'}}>
+      <div style={{marginTop:'-20px',background:'#d7ddea',height:'650px'}}>
         <h1 style={{paddingLeft:'970px',paddingTop:'25px'}}>  Create a new account </ h1>
           <h4 style={{color:'grey',paddingLeft:'970px'}}> It's free now but we might charge in the future!</h4>
           <div >  <input placeholder="First name" type="text " style={{borderRadius:'7px',width:'130px',height:'30px',marginLeft: '1000px'}} / >
